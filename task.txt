@@ -1,3 +1,7 @@
+2. Tracks file changes
+3. Manages project history
+4. Developers use daily
+5. Distributed version control
 6. Repository stores code
 7. Commits save snapshots
 8. Branches create experiments
