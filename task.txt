@@ -1,0 +1,5 @@
+16. Mixed reset default
+17. Checkout switches branch
+18. Clone copies repo
+19. Pull gets updates
+20. Push shares changes
