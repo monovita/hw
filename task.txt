@@ -1,0 +1,5 @@
+11. Staging area buffer
+12. Index before commit
+13. Reset moves head
+14. Hard reset dangerous
+15. Soft reset safe
